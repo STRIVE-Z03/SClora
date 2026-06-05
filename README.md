@@ -26,7 +26,6 @@ SCALE-LoRA 研究在开放 LoRA 池中，如何利用少量 support examples 将
 
 ## Repository
 
-The public-facing code should expose only the SCALE-FG and LASRC implementation paths. Local resource paths are represented with placeholders such as `xx/xx` in documentation.
 
 Some running data and logs are provided in the code package under `paper_evidence/`.
 
