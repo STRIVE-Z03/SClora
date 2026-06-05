@@ -1,0 +1,14 @@
+Model: Llama-3.1-8B
+Subset: logo8
+Method: LASRC
+
+boolean_expressions: strict=70.7% (106/150)
+causal_judgement: strict=56.0% (102/182)
+formal_fallacies: strict=53.5% (131/245)
+navigate: strict=57.1% (140/245)
+object_counting: strict=47.3% (116/245)
+sports_understanding: strict=73.5% (180/245)
+web_of_lies: strict=54.3% (133/245)
+word_sorting: strict=38.4% (94/245)
+
+average: 56.3
